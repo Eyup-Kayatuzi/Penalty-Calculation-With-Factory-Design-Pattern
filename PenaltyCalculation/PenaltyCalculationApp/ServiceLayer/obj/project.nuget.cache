@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "wuJnvYxxDC8xFoto7iS6qcUjyG+2vxPDaomrypj6mPx7YM9BvqI7jIEFf3MHi7pAfhiFmN5iO5Al7rXMSnNsqw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\eypky\\OneDrive\\Desktop\\efwe\\VeriPark\\PenaltyCalculationApp\\ServiceLayer\\ServiceLayer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\eypky\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\6.0.1\\microsoft.extensions.dependencyinjection.6.0.1.nupkg.sha512",
+    "C:\\Users\\eypky\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\eypky\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
